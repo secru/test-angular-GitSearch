@@ -1,3 +1,6 @@
+# test-angular-GitSearch
+Angular App for Git API search
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
