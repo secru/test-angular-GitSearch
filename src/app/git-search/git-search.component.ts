@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { GitSearchService } from '../git-search.service'
 import { GitSearch } from '../git-search'
 import { ActivatedRoute, ParamMap, Router } from '@angular/router';
-import { TouchSequence } from 'selenium-webdriver';
 
 @Component({
   selector: 'app-git-search',
